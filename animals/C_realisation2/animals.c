@@ -66,3 +66,4 @@ void dog_bite(Dog *d) {
     const char *nm = (d && d->base.name) ? d->base.name : "(null)";
     printf("dog %s bites!\n", nm);
 }
+
