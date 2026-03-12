@@ -1,0 +1,9 @@
+fst = 0;
+snd = 1;
+iters = 7;
+while (iters > 1) {
+    tmp = fst;
+    fst = snd;
+    snd = snd + tmp;
+    iters = iters - 1;
+}
