@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/lexer.dir/link.d CMakeFiles/lexer.dir/src/process.cpp.o CMakeFiles/lexer.dir/src/get_line_and_column.cpp.o CMakeFiles/lexer.dir/__/__/__/lexer.cpp.o -o lexer  /usr/lib/x86_64-linux-gnu/libgtest.a /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a

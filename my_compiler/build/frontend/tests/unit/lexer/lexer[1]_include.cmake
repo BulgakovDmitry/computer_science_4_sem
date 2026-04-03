@@ -1,0 +1,5 @@
+if(EXISTS "/home/dima/Desktop/coding/coding_seminars/computer_science_4_sem/my_compiler/build/frontend/tests/unit/lexer/lexer[1]_tests.cmake")
+  include("/home/dima/Desktop/coding/coding_seminars/computer_science_4_sem/my_compiler/build/frontend/tests/unit/lexer/lexer[1]_tests.cmake")
+else()
+  add_test(lexer_NOT_BUILT lexer_NOT_BUILT)
+endif()
