@@ -1,0 +1,3 @@
+/home/dima/Desktop/coding/coding_seminars/computer_science_4_sem/sfml_tutorial/build/CMakeFiles/app.dir
+/home/dima/Desktop/coding/coding_seminars/computer_science_4_sem/sfml_tutorial/build/CMakeFiles/edit_cache.dir
+/home/dima/Desktop/coding/coding_seminars/computer_science_4_sem/sfml_tutorial/build/CMakeFiles/rebuild_cache.dir
