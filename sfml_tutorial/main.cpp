@@ -4,7 +4,7 @@ int main()
 {
     const int windowWidth = 800;
     const int windowHeight = 600;
-    const float speed = 300.0f; // пикселей в секунду
+    const float speed = 300.0f; 
 
     sf::RenderWindow window(sf::VideoMode(windowWidth, windowHeight), "SFML movement");
     window.setFramerateLimit(60);
@@ -39,7 +39,6 @@ int main()
 
         player.move(movement);
 
-        // Ограничение движения внутри окна
         sf::Vector2f pos = player.getPosition();
         sf::Vector2f size = player.getSize();
 
